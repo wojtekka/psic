@@ -1,4 +1,5 @@
 Testowa strona dla PSiC
+=======================
 
 Wpłaty należy przekazywać na konto numer PL 65 9484 1163 9562 5552 7170 7619.
 
